@@ -20,8 +20,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 
 ## Messages
 
-`:seedling:` :seedling: initial/early commits
-
+- `:seedling:` :seedling: initial/early commits
 - `:art:` :art: working on or completing a general feature
 - `:construction:` :construction: working on a critical or invasive feature
 - `:bug:` :bug: working on fixing or completed fixing a bug
