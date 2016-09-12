@@ -1,4 +1,4 @@
-# shiny-commits
+# tasty-commits
 
 > :lollipop: A commit-message convention for easily digestible history streams
 
