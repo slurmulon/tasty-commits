@@ -1,6 +1,6 @@
 # tasty-commits
 
-> :lollipop: A commit-message convention for easily digestible history streams
+> :lollipop: Simple commit-message convention for easily digestible history streams
 
 ---
 
