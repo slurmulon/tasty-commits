@@ -21,7 +21,8 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 ## Messages
 
 - :seedling: `:seedling:` initial/early commits
-- :art: `:art:` working on or completing a general feature
+- :art: `:art:` working on or completing a general feature anywhere in the stack
+- :tv: `:tv:` working on the user interface (stylesheets, aesthetic changes, layouts, etc.)
 - :construction: `:construction:` working on a critical or invasive feature
 - :bug: `:bug:` working on fixing or completed fixing a bug
 - :wrench: `:wrench:` updates to configuration, data population, build scripts, deploy, etc.
