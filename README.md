@@ -20,23 +20,26 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 
 ## Messages
 
-- :seedling: `:seedling:` initial/early commits
+- :seedling: `:seedling:` initial or early project commits
+- :anchor:`:anchor:` early scaffolding work for a specific feature
 - :art: `:art:` working on or completing a general feature anywhere in the stack
 - :tv: `:tv:` working on the user interface (stylesheets, aesthetic changes, layouts, etc.)
 - :construction: `:construction:` working on a critical or invasive feature
 - :bug: `:bug:` working on fixing or completed fixing a bug
 - :wrench: `:wrench:` updates to configuration, data population, build scripts, deploy, etc.
-- :package: `:package:` updates to dependencies (Maven, NPM, Mix, etc.)
-- :envelope: `:envelope:` updates to email templates / content
 - :rocket: `:rocket:` optimization tweaks
-- :sparkles: `:sparkles:` general cleanup
+- :sparkles: `:sparkles:` general cleanup (linter appeasement, stale comments, repairing broken windows, etc.)
 - :scroll: `:scroll:` documentation, wiki, docstring and general text updates
-- :microscope: `:microscope:` test suite updates
+- :microscope: `:microscope:` test suite additions or updates
+- :package: `:package:` updates to dependencies (Maven, NPM, Mix, etc.)
 - :truck: `:truck:` migrating code or renaming files
 - :checkered_flag: `:checkered_flag:` functional but likely unclean checkpoint for a difficult or large feature
 - :see_no_evil: `:see_no_evil:` adding technical debt to quickly resolve a problem
 - :sweat_drops: `:sweat_drops:` code is in a state of instability due to an enigmatic problem (typically trying to address the problem)
 - :boom: `:boom:` removing code, files, or data
+- :ok: `:ok:` merge conflict resolution(s)
+- :envelope: `:envelope:` updates to email templates or content
+- :snowflake: i18n/l10n, partnerification or white labeling changes
 
 ## Contributing
 
