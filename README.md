@@ -39,7 +39,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :boom: `:boom:` removing code, files, or data
 - :ok: `:ok:` merge conflict resolution(s)
 - :envelope: `:envelope:` updates to email templates or content
-- :snowflake: i18n/l10n, partnerification or white labeling changes
+- :snowflake: `:snowflake:` i18n/l10n, partnerification or white labeling changes
 
 ## Contributing
 
