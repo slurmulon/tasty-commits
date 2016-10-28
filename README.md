@@ -23,7 +23,8 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :seedling: `:seedling:` initial or early project commits
 - :anchor:`:anchor:` early scaffolding work for a specific feature
 - :art: `:art:` working on or completing a general feature anywhere in the stack
-- :tv: `:tv:` working on the user interface (stylesheets, aesthetic changes, layouts, etc.)
+- :tv: `:tv:` working on the user interface or front-end (stylesheets, aesthetic changes, layouts, etc.)
+- :satellite: `:satellite:` working on the API or back-end
 - :construction: `:construction:` working on a critical or invasive feature
 - :bug: `:bug:` working on fixing or completed fixing a bug
 - :wrench: `:wrench:` updates to configuration, data population, build scripts, deploy, etc.
