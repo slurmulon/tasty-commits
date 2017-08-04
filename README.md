@@ -38,6 +38,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :see_no_evil: `:see_no_evil:` adding technical debt
 - :sweat_drops: `:sweat_drops:` enigmatic problems
 - :boom: `:boom:` removing code, files, or data
+- :ghost: `:ghost:` temporary or ephemeral changes
 - :ok: `:ok:` conflict resolutions
 - :cd: `:cd:` media assets
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
