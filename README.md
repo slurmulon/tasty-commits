@@ -43,6 +43,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :cd: `:cd:` media assets
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
 - :moneybag: `:moneybag:` payments, subscriptions, trials, pricing models, financing
+- :iphone: `:iphone:` media queries, device-specific changes
 - :cloud: `:cloud:` networking, deploy, continuous integration
 - :scroll: `:scroll:` documentation, wiki, comments, docstrings, general text
 - :bulb: `:bulb:` assistive content, learning resources
