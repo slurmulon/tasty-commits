@@ -5,9 +5,11 @@
 ---
 
 As a visual person, I find it difficult to read through large commit history logs in binary color schemes (i.e. black / white).
+
 In order to improve readability and understandability of my commit history I started prefixing my messages with emojis 
-in a consistent manner. Over the years I've made this convention a habit and find it hard to live without, so I figured 
-I'd document the idea to see if others find it useful, too.
+in a consistent manner.
+
+Over the years I've made this convention a habit and find it hard to live without, so I figured I'd document the idea to see if others find it useful, too.
 
 ## Convention
 
