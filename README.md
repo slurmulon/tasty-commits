@@ -23,7 +23,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 ## Messages
 
 - :seedling: `:seedling:` initial commits
-- :anchor:`:anchor:` feature scaffolding
+- :anchor: `:anchor:` feature scaffolding
 - :art: `:art:` general feature development
 - :tv: `:tv:` user interface or front-end development
 - :satellite: `:satellite:` API, back-end, or integration development
