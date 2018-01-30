@@ -43,14 +43,14 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :boom: `:boom:` removing code, files, or data
 - :ghost: `:ghost:` temporary or ephemeral changes
 - :ok: `:ok:` conflict resolutions
-- :cd: `:cd:` media assets
+- :cd: `:cd:` media and static assets
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
 - :moneybag: `:moneybag:` payments, subscriptions, trials, pricing models, financing
 - :iphone: `:iphone:` media queries, device-specific changes
 - :cloud: `:cloud:` networking, deploy, continuous integration
 - :scroll: `:scroll:` documentation, wiki, comments, docstrings, general text
 - :bulb: `:bulb:` assistive content, learning resources
-- :envelope: `:envelope:` email templates, email content
+- :envelope: `:envelope:` email templates or content
 - :snowflake: `:snowflake:` i18n/l10n, partnerification, white labeling
 - :hammer: `:hammer:` administration, moderation
 
@@ -64,7 +64,8 @@ Here are some common scenarios where combining can be very useful:
  - `:anchor: :construction: scaffolding work for a critical feature`
  - `:wrench: :rocket: configuration change that optimizes the application`
  - `:scroll: :bug: fixed a typo in the documentation`
- - `:satellite: :package: added a new third-party dependency to the API"`
+ - `:satellite: :package: added a new third-party dependency to the API`
+ - `:tv: :lock: :checkered_flag: finished integrating auth in the client`
  
 There are of course an endless number of scenarios where this can be useful, so please feel free to contribute to this list when you find yourself using novel combinations.
 
