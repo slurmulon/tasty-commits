@@ -42,6 +42,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :sweat_drops: `:sweat_drops:` enigmatic problems
 - :boom: `:boom:` removing code, files, or data
 - :ghost: `:ghost:` temporary or ephemeral changes
+- :pill: `:pill:` experimental changes or implementations
 - :ok: `:ok:` conflict resolutions
 - :cd: `:cd:` media and static assets
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
