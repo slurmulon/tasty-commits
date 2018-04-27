@@ -46,6 +46,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :ok: `:ok:` conflict resolutions
 - :cd: `:cd:` media and static assets
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
+- :cop: `:cop:` security features, improvements or fixes
 - :moneybag: `:moneybag:` payments, subscriptions, trials, pricing models, financing
 - :iphone: `:iphone:` media queries, device-specific changes
 - :cloud: `:cloud:` networking, deploy, continuous integration
