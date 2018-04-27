@@ -27,16 +27,16 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :art: `:art:` general feature development
 - :tv: `:tv:` user interface or front-end development
 - :satellite: `:satellite:` API, back-end, or integration development
-- :wrench: `:wrench:` configuration, environment variables
+- :wrench: `:wrench:` configuration, settings, environment variables
 - :construction: `:construction:` work-in-progress, unstable, unusable
 - :bug: `:bug:` bugs, broken windows
 - :vhs: `:vhs:` general scripts, task automation, code generation
 - :microscope: `:microscope:` test suite additions or updates
 - :rocket: `:rocket:` optimizations
-- :sparkles: `:sparkles:` cleanup, touch-ups
+- :sparkles: `:sparkles:` cleanup, lint, touch-ups
 - :package: `:package:` packages, dependencies
 - :factory: `:factory:` build scripts
-- :truck: `:truck:` migrating code, files or tables
+- :truck: `:truck:` migrating code, data, files or database tables
 - :checkered_flag: `:checkered_flag:` large/complex feature checkpoint
 - :see_no_evil: `:see_no_evil:` adding technical debt
 - :sweat_drops: `:sweat_drops:` enigmatic problems
