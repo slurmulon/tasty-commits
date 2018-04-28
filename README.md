@@ -30,6 +30,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :wrench: `:wrench:` configuration, settings, environment variables
 - :construction: `:construction:` work-in-progress, unstable, unusable
 - :bug: `:bug:` bugs, broken windows
+- :fire: `:fire:` error and exception handling
 - :vhs: `:vhs:` general scripts, task automation, code generation
 - :microscope: `:microscope:` test suite additions or updates
 - :rocket: `:rocket:` optimizations
