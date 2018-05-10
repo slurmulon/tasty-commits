@@ -27,6 +27,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :art: `:art:` general feature development
 - :tv: `:tv:` user interface or front-end development
 - :satellite: `:satellite:` API, back-end, or integration development
+- :lipstick: `:lipstick:` styles, colors, sizes, positions, alignment
 - :wrench: `:wrench:` configuration, settings, environment variables
 - :construction: `:construction:` work-in-progress, unstable, unusable
 - :bug: `:bug:` bugs, broken windows
@@ -74,9 +75,9 @@ There are of course an endless number of scenarios where this can be useful, so 
 
 ### Conflicts
 
-One could argue that certain combinations inherently conflict, such as `:art:` and `:bug:`, but I believe that context is everything, and so I want to ensure that no assumptions are made about what contexts users will find themselves in. 
+One could argue that certain combinations inherently conflict, such as `:art:` and `:bug:`, but I believe that context is everything and I want to ensure that no assumptions are made about what contexts users will find themselves in. 
 
-So there are no hard and fast rules regarding how you can/should combine emojis. My only suggestion is to be as consistent as possible so that everybody on your engineering team can benefit and pick up the process efficiently.
+So there are no hard and fast rules regarding how you can/should combine emojis. My only suggestion is to be as consistent as possible so that everybody on your engineering team can benefit and pick up the process quickly.
 
 ## Contributing
 
