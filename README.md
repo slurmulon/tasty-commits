@@ -34,6 +34,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :fire: `:fire:` error and exception handling
 - :vhs: `:vhs:` general scripts, task automation, code generation
 - :microscope: `:microscope:` test suite additions or updates
+- :performing_arts: `:performing_arts:` stubs, mocks and fixtures
 - :rocket: `:rocket:` optimizations
 - :sparkles: `:sparkles:` cleanup, lint, touch-ups
 - :package: `:package:` packages, dependencies
