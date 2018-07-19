@@ -35,6 +35,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :vhs: `:vhs:` general scripts, task automation, code generation
 - :microscope: `:microscope:` test suite additions or updates
 - :performing_arts: `:performing_arts:` stubs, mocks and fixtures
+- :zap: `:zap:` caching
 - :rocket: `:rocket:` optimizations
 - :sparkles: `:sparkles:` cleanup, lint, touch-ups
 - :package: `:package:` packages, dependencies
