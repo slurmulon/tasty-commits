@@ -49,6 +49,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :pill: `:pill:` experimental changes or implementations
 - :ok: `:ok:` conflict resolutions
 - :cd: `:cd:` media and static assets
+- :electric_plug: `:electric_plug:` offline mode
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
 - :cop: `:cop:` security features, improvements or fixes
 - :moneybag: `:moneybag:` payments, subscriptions, trials, pricing models, financing
