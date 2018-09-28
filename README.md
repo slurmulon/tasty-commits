@@ -55,6 +55,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :moneybag: `:moneybag:` payments, subscriptions, trials, pricing models, financing
 - :iphone: `:iphone:` media queries, device-specific changes
 - :cloud: `:cloud:` networking, deploy, continuous integration
+- :gift: `:gift:` containerization
 - :eye: `:eye:` monitoring, analytics
 - :scroll: `:scroll:` documentation, wiki, comments, docstrings, general text
 - :bulb: `:bulb:` assistive content, learning resources
