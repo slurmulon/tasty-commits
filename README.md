@@ -52,6 +52,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :electric_plug: `:electric_plug:` offline mode
 - :pager: `:pager:` events, messages, notifications
 - :lock: `:lock:` permissions, authorization, authentication, user sessions
+- :link: `:link:` routes, paths, links
 - :cop: `:cop:` security features, improvements or fixes
 - :moneybag: `:moneybag:` payments, subscriptions, trials, pricing models, financing
 - :iphone: `:iphone:` media queries, device-specific changes
