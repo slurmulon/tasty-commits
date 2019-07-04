@@ -40,6 +40,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :sparkles: `:sparkles:` cleanup, lint, touch-ups
 - :package: `:package:` packages, dependencies
 - :factory: `:factory:` build scripts
+- :recycle: `:recycle:` refactoring code
 - :truck: `:truck:` migrating code, data, files or database tables
 - :checkered_flag: `:checkered_flag:` large/complex feature checkpoint
 - :see_no_evil: `:see_no_evil:` adding technical debt
