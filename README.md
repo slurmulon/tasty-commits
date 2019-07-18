@@ -65,6 +65,7 @@ helps for trackability, recollection, debugging, and fun! :neckbeard:
 - :envelope: `:envelope:` email templates or content
 - :snowflake: `:snowflake:` i18n/l10n, partnerification, white labeling
 - :hammer: `:hammer:` administration, moderation
+- :cowboy_hat_face: `:cowboy_hat_face:` cowboy commit, unreviewed code
 
 ## Combinations
 
